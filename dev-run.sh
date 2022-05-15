@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run --rm -p 5000:5000 image-hashes:latest
+docker run --rm -p 8000:8000 image-hashes:latest
