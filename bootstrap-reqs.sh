@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pip install fastapi python-multipart uvicorn imagehash loguru
+pip install imagehash grpcio grpcio-tools
 pip freeze > requirements.txt
