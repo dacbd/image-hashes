@@ -3,4 +3,6 @@ bin/
 lib/
 .git/
 .github/
-test.sh
+.git*
+proto/
+test_*
